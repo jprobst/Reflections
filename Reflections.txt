@@ -11,3 +11,9 @@ Why do you think some version control systems, like Git, allow saving multiple f
 
 A
 Why Git is a whole row as a repository
+
+Q
+How can you use the commands git log and git diff to view the history of files?
+
+A
+I can use to view the history of changes to each commit, the log to see the history and diff commits to know exactly the difference between the two commit
